@@ -1,13 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Typescript blog Starter`,
-    description: `A simple blog starter using Typescript in front & back side with eslint & prettier.`,
+    title: `olubunmi-obalade`,
+    description: `A website for the Reverend Dr. Olubunmi Obalade.`,
     author: {
-      name: 'Julien CARON',
-      content: 'I like build some things using Javascript',
+      name: 'Ojo Oluwasetemi',
+      content:
+        'I&apos; m a Fullstack Developer. I make all sort of stuff with Typescript, JavaScript, React, Nodejs. You can find my work on GitHub and CodeSandbox. I enjoy teaching and sharing about the things I build. Check out my writing.I help people learn more about web development.',
     },
     social: {
-      github: 'https://github.com/Junscuzzy',
+      github: 'https://github.com/Oluwasetemi',
     },
   },
   plugins: [

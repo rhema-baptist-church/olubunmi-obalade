@@ -1,7 +1,6 @@
-import React, { FC } from 'react'
-
+import { Container, Link, Theme, Typography } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-import { Container, Typography, Theme, Link } from '@material-ui/core'
+import React, { FC } from 'react'
 
 const useStyles = makeStyles((theme: Theme) => ({
   footer: {
@@ -30,6 +29,11 @@ const Footer: FC = () => {
           {` `}
           <Link href="https://material-ui.com/" color="inherit">
             @Material-ui
+          </Link>
+          and
+          {` `}
+          <Link href="https://oluwasetemi.dev/" color="inherit">
+            👨🏽‍💻Oluwasetemi
           </Link>
           ,
         </Typography>

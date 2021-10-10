@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-material-typescript-starter",
+  "name": "olubunmi-obalade",
   "private": true,
-  "description": "A simple starter using Typescript & Material-ui",
+  "description": "A website for the Reverend Dr. Olubunmi Obalade",
   "version": "0.1.0",
-  "author": "Julien CARON <juliencaron@protonmail.com>",
+  "author": "Ojo Oluwasetemi <setemiojo@gmail.com>",
   "keywords": [
     "gatsby",
     "typescript",
